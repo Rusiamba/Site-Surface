@@ -106,7 +106,7 @@
 
     p {
         font-size: 20px;
-        padding: 0 20px;
+        padding: 0;
         font-weight: normal;
     }
 
@@ -124,10 +124,14 @@
     .cole>h4 {
         font-size: 36px;
     }
-
+    
+    .cole>h4>span {
+        margin: 0;
+    }
+    
     .cole>p {
         font-size: 20px;
-        padding: 0 20px;
+        padding: 0;
         font-weight: normal;
         align-self: center;
     }
@@ -147,9 +151,13 @@
         font-size: 36px;
     }
 
+    .gwe>h4>span {
+        margin: 0;
+    }
+    
     .gwe>p {
         font-size: 20px;
-        padding: 0 20px;
+        padding: 0;
         font-weight: normal;
         align-self: center;
     }
@@ -197,10 +205,14 @@
     .cne>h4 {
         font-size: 36px;
     }
-
+    
+    .cne>h4>span {
+        margin: 0;
+    }
+    
     .cne>p {
         font-size: 20px;
-        padding: 0 20px;
+        padding: 0;
         font-weight: normal;
         align-self: center;
     }
@@ -220,10 +232,14 @@
     .clne>h4 {
         font-size: 36px;
     }
-
+    
+    .clne>h4>span {
+        margin: 0;
+    }
+    
     .clne>p {
         font-size: 20px;
-        padding: 0 20px;
+        padding: 0;
         font-weight: normal;
         align-self: center;
     }
@@ -241,6 +257,10 @@
 
     .gtwe>h4 {
         font-size: 36px;
+    }
+    
+    .gtwe>h4>span {
+        margin: 0;
     }
 
     .aci {
