@@ -769,9 +769,12 @@ p {
 
 
 
-@media(min-width: 962px) and (max-width: 1570px) {
-    .fotico>article>h2 {
+@media (min-width: 962px) and (max-width: 1570px) {
+    .fotico>article {
         left: 100px;
+    }
+    .fotico>article>p {
+        left: 80px;
     }
 }
 
